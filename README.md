@@ -1,7 +1,8 @@
 # Vijaya Jyothi Nersu
 
-🎓 B.Tech Undergraduate | Aspiring Data Scientist  
-📍 India  
+🎓 B.Tech Undergraduate | Aspiring Data Scientist  | B.Tech CSE AI & DS | 2nd Year | Student at KIETW| Python | Machine Learning
+| Eluru, Andhra Pradesh, India 
+ 
 
 ---
 
