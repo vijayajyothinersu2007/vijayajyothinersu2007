@@ -50,7 +50,13 @@ Developed a machine learning model to classify text sentiment using TF-IDF vecto
 ### 🔹 Text Mining for Competitive Intelligence
 Performed NLP-based analysis on textual datasets to extract business insights. Implemented preprocessing techniques, tokenization, and vectorization for pattern identification.
 
-**Tech Stack:** Python, NLP, Pandas  
+**Tech Stack:** Python, NLP, Pandas
+
+
+###  Student Score Prediction
+This project aims to predict student academic performance based on various input features such as study hours, attendance, and other relevant academic factors. The objective is to build a supervised machine learning model that can estimate student scores and help identify performance trends.
+**Tech Stack:** Python , Pandas , NumPy , Scikit-learn , Matplotlib / Seaborn
+
 
 ---
 
